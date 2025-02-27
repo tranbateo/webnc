@@ -16,7 +16,7 @@ Website Shop FPT được thiết kế để cung cấp một nền tảng thư�
 
 ## **Chức Năng**
 
-### **Chức năng dành cho Khách hàng (Client):**
+### **Chức năng dành cho Khách hàng (User):**
 1. **Đăng ký/đăng nhập:**
    - Tạo tài khoản, đăng nhập, quên mật khẩu.
 2. **Xem sản phẩm & chi tiết sản phẩm:**
@@ -33,7 +33,7 @@ Website Shop FPT được thiết kế để cung cấp một nền tảng thư�
 
 ---
 
-### **Chức năng dành cho Nhà cung cấp (Seller):**
+### **Chức năng dành cho Nhà cung cấp (Vendor):**
 1. **Đăng ký/đăng nhập:**
    - Tạo tài khoản, quản lý thông tin cá nhân.
 2. **Quản lý sản phẩm:**
