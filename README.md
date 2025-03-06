@@ -94,7 +94,7 @@ Website Shop FPT được thiết kế để cung cấp một nền tảng thư�
 
 ---
 ## Link github : https://github.com/tranbateo/webnc
-
+## Link demo yêu cầu của giảng viên : https://youtu.be/EsBKi02lxiY
 ---
 
 
